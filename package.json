@@ -1,0 +1,17 @@
+{
+  "name": "teste-natura",
+  "version": "1.0.0",
+  "description": "Automatizar o cenario de Cadastro do Site da Natura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Correa Camilo",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cpf-cnpj-validator": "^1.0.3",
+    "cypress": "^12.9.0",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
